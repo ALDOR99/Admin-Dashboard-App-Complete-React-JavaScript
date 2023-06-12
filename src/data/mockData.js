@@ -1,5 +1,5 @@
 import { tokens } from "../theme";
-
+//-------------------------------------
 export const mockDataTeam = [
   {
     id: 1,
@@ -74,7 +74,7 @@ export const mockDataTeam = [
     access: "admin",
   },
 ];
-
+//-------------------------------------
 export const mockDataContacts = [
   {
     id: 1,
@@ -198,7 +198,7 @@ export const mockDataContacts = [
     registrarId: 92197,
   },
 ];
-
+//-------------------------------------
 export const mockDataInvoices = [
   {
     id: 1,
@@ -265,7 +265,7 @@ export const mockDataInvoices = [
     date: "05/02/2021",
   },
 ];
-
+//-------------------------------------
 export const mockTransactions = [
   {
     txId: "01e4dsa",
@@ -317,6 +317,7 @@ export const mockTransactions = [
   },
 ];
 
+//-------------------------------------
 export const mockBarData = [
   {
     country: "AD",
@@ -396,7 +397,7 @@ export const mockBarData = [
     donutColor: "hsl(274, 70%, 50%)",
   },
 ];
-
+//-------------------------------------
 export const mockPieData = [
   {
     id: "hack",
@@ -429,7 +430,7 @@ export const mockPieData = [
     color: "hsl(344, 70%, 50%)",
   },
 ];
-
+//-------------------------------------
 export const mockLineData = [
   {
     id: "japan",
@@ -594,7 +595,7 @@ export const mockLineData = [
     ],
   },
 ];
-
+//-------------------------------------
 export const mockGeographyData = [
   {
     id: "AFG",
@@ -1281,3 +1282,4 @@ export const mockGeographyData = [
     value: 171135,
   },
 ];
+//-------------------------------------
